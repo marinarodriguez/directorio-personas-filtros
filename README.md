@@ -17,8 +17,8 @@ Vamos a poder filtrar por:
 
 Fases:
 
--[] Set up project.
--[] Plan components.
+-[x] Set up project.
+-[x] Plan components.
 -[] Call API and paint list.
 -[] Paint filters and control them.
 -[] Filter list.
