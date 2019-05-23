@@ -19,8 +19,8 @@ Fases:
 
 -[x] Set up project.
 -[x] Plan components.
--[] Call API and paint list.
--[] Paint filters and control them.
--[] Filter list.
+-[x] Call API and paint list.
+-[x] Paint filters and control them.
+-[x] Filter list.
 -[] Optional: add detail page.
 -[] Review and clean.
