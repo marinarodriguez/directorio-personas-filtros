@@ -3,7 +3,6 @@ import "./styles.scss";
 import Filters from "../filters";
 import List from "../list";
 import fetchPeople from "../../services/people-service";
-import { tsImportEqualsDeclaration, conditionalExpression } from "@babel/types";
 
 class App extends React.Component {
   constructor(props) {
